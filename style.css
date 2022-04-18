@@ -2,13 +2,14 @@ body {
   font-family:Calibri;
   text-align:center;
   vertical-align:middle;
-  background:#bfbfbf;
-  color:white
+  background:#2D3338;
+  color:white;
+  text-weight: bold;
 }
 
 h1{
-  color:#424242;
-  text-shadow:3px 3px 5px white;
+  color:white;
+  text-shadow:3px 3px 5px black;
   font-size:45px;
 }
 
@@ -16,10 +17,10 @@ h1{
             padding-top: 30px;
             padding-bottom: 30px;
             display:inline-block;
-            border:1px solid #807e7e;
-            background-color:#807e7e;
+            border:1px solid #363B41;
+            background-color:#363B41;
             padding:10px 12px;
-            box-shadow:2px 2px 5px white;
+            box-shadow:2px 2px 5px black;
             text-decoration:none;
             border-radius:3px;
             color:white;
@@ -27,6 +28,7 @@ h1{
             width:150px;
             text-shadow:2px 2px 5px #2b2b2b;
             text-align:middle;
+            text-weight: bold;
         }
         a:hover{
             border:1px solid #64b0b5;
